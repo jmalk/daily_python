@@ -25,3 +25,5 @@ if palindromic:
     print("Palindrome")
 else:
     print("Not a palindrome")
+
+#testcomment
